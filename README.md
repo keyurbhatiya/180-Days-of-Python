@@ -74,6 +74,17 @@ Welcome to the **180 Days of Python** journey! This project is a structured road
 ✅ Day 50: Database Optimization Techniques  
 ✅ Day 51: Practice Project (Employee Management System)
 
+### **Week 8: Data Science Foundations**  
+✅ Day 52: Introduction to NumPy  
+✅ Day 53: Working with Pandas  
+✅ Day 54: Data Visualization with Matplotlib  
+✅ Day 55: Data Cleaning and Preprocessing  
+✅ Day 56: Exploratory Data Analysis (EDA)  
+✅ Day 57: Handling Missing Data  
+✅ Day 58: Data Science Mini-Project (Sales Analysis)  
+✅ Day 59: Working with Seaborn  
+✅ Day 60: Practice & Review
+
 ## 📁 Project Structure
 ```
 📂 180-days-of-python
