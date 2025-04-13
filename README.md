@@ -108,17 +108,6 @@ Welcome to the **180 Days of Python** journey! This project is a structured road
 - **79.** Loan EMI Calculator
 - **80.** Calendar App GUI
 
-## 📁 Project Structure
-```
-📂 180-days-of-python
- ├── 📁 Day 01-30  (Python Fundamentals)
- ├── 📁 Day 31-60  (Intermediate Python)
- ├── 📁 Day 61-90  (Web Development)
- ├── 📁 Day 91-120 (Automation & DevOps)
- ├── 📁 Day 121-150 (AI & Machine Learning)
- ├── 📁 Day 151-180 (Advanced Topics & Final Projects)
- ├── README.md
-```
 
 ## 🎯 Goals
 - Master Python from **beginner to advanced**
