@@ -127,14 +127,18 @@ Welcome to the **180 Days of Python** journey! This project is a structured road
 3. Start learning and coding every day! 🚀
 
 ## 🏆 Progress Tracking
-| Day  | Topic                | Status |
-|------|----------------------|--------|
-| 1-30  | Python Basics        | ✅ Done |
-| 31-60 | Intermediate Python  | ✅ Done |
-| 61-90 | Web Development      | 🚧 In Progress |
-| 91-120 | Automation & DevOps | 🔜 Upcoming |
-| 121-150 | AI & ML            | 🔜 Upcoming |
-| 151-180 | Final Projects     | 🔜 Upcoming |
+
+| Day       | Topic                                | Status        |
+|-----------|--------------------------------------|----------------|
+| 1–30      | Python Basics                        | ✅ Done         |
+| 31–60     | Web Development                      | ✅ Done         |
+| 61–80     | Intermediate Python Projects         | 🚧 In Progress  |
+| 81–100    | Data Handling & Visualization        | 🔜 Upcoming     |
+| 101–120   | APIs, Automation & Security          | 🔜 Upcoming     |
+| 121–140   | Final Projects                       | 🔜 Upcoming     |
+| 141–160   | AI, ML, and Chatbots                 | 🔜 Upcoming     |
+| 161–180   | Web, Full-Stack & Advanced Projects  | 🔜 Upcoming     |
+
 
 ## 🔗 Resources
 - [Python Official Docs](https://docs.python.org/3/)
