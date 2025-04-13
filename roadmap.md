@@ -84,6 +84,154 @@ Here's a **180-Day Python Roadmap** that covers everything from basics to advanc
 
 ---
 
+## 🧠 **Days 61–80: Intermediate Python Projects**
+- **61.** Digital Clock GUI using `tkinter`
+- **62.** Random Password Generator (with strength meter)
+- **63.** Pomodoro Timer App
+- **64.** Flashcard App (quiz mode)
+- **65.** Typing Speed Test App
+- **66.** File Organizer (auto-sort files into folders by extension)
+- **67.** Countdown Timer CLI
+- **68.** Desktop Notifier using `plyer`
+- **69.** Weather App using OpenWeatherMap API
+- **70.** Currency Converter using `forex-python`
+- **71.** Dice Rolling GUI Game
+- **72.** GUI BMI Calculator
+- **73.** QR Code Generator using `qrcode`
+- **74.** Barcode Generator
+- **75.** Python Image Editor (crop, rotate, filters) using `Pillow`
+- **76.** Simple Expense Tracker with CSV
+- **77.** Flashlight App using camera LED (for Android via Kivy)
+- **78.** Secure Notes App with Encryption
+- **79.** Loan EMI Calculator
+- **80.** Calendar App GUI
+
+---
+
+## 📊 **Days 81–100: Data Handling & Visualization**
+- **81.** Read/Write CSV & Excel with `pandas`
+- **82.** Data Cleaning Script
+- **83.** Merge Multiple Excel Files
+- **84.** Create Data Summary Report
+- **85.** Matplotlib Line Chart Project
+- **86.** Bar & Pie Chart Dashboard
+- **87.** Interactive Charts with `plotly`
+- **88.** Web Scraping with `BeautifulSoup` (news headlines)
+- **89.** Stock Price Tracker using `yfinance`
+- **90.** Movie Ratings from IMDb
+- **91.** Currency Rates Tracker (API + plot)
+- **92.** Mini Data Analysis on COVID Dataset
+- **93.** Student Marks Analyzer with Graphs
+- **94.** YouTube Channel Stats Scraper
+- **95.** Amazon Product Price Tracker
+- **96.** Portfolio Tracker (stocks & crypto)
+- **97.** Dataset Visualizer (upload any CSV and visualize)
+- **98.** Instagram Profile Analyzer (public stats)
+- **99.** PDF Report Generator using `fpdf`
+- **100.** Resume Parser & Analyzer
+
+---
+
+## 🔐 **Days 101–120: APIs, Automation & Security**
+- **101.** REST API Caller Tool
+- **102.** Build Your Own REST API with Flask
+- **103.** Automate Email Sending
+- **104.** Create a Telegram Bot
+- **105.** WhatsApp Message Sender using `pywhatkit`
+- **106.** Website Uptime Checker
+- **107.** File Backup & Sync Tool
+- **108.** Screenshot Taker & Saver
+- **109.** Automate File Renaming
+- **110.** Web Login Automation with `Selenium`
+- **111.** LinkedIn Job Scraper
+- **112.** PDF Merger & Splitter
+- **113.** File Encryption & Decryption
+- **114.** Login Authentication System (CLI)
+- **115.** Clipboard Manager
+- **116.** Secure Password Manager
+- **117.** GitHub Repo Auto Cloner
+- **118.** Automate Birthday Wishes Email
+- **119.** Instagram Auto Liker (headless browser)
+- **120.** OTP Generator & Validator
+
+---
+
+## 🎮 **Days 121–140: Games with Python**
+- **121.** Number Guessing Game (with GUI)
+- **122.** Rock Paper Scissors Game (GUI)
+- **123.** Word Scramble Game
+- **124.** Snake Game with `pygame`
+- **125.** Tic Tac Toe (2-player GUI)
+- **126.** Hangman with GUI
+- **127.** Memory Card Game
+- **128.** Flappy Bird Clone with `pygame`
+- **129.** Reaction Speed Tester
+- **130.** Maze Solver Visualizer
+- **131.** Shooting Game with Score
+- **132.** Racing Game with Obstacles
+- **133.** Sudoku Generator & Solver
+- **134.** Chess Board UI
+- **135.** Coin Collector Game
+- **136.** Pong Game
+- **137.** Typing Game (falling words)
+- **138.** Dice Game with Multiplayer Scores
+- **139.** Space Invaders Clone
+- **140.** Platformer Game Demo
+
+---
+
+## 🤖 **Days 141–160: AI, ML, and Chatbots**
+- **141.** Sentiment Analysis with `TextBlob`
+- **142.** Fake News Detector
+- **143.** Spam Email Classifier
+- **144.** Chatbot with `ChatterBot`
+- **145.** AI Assistant with Speech Recognition
+- **146.** Face Detection with `OpenCV`
+- **147.** Real-Time Emotion Detector
+- **148.** Hand Gesture Controller
+- **149.** Object Detection using YOLOv5
+- **150.** AI Text Generator with `transformers`
+- **151.** Resume Matcher with Job Description
+- **152.** Predict House Prices (ML model)
+- **153.** Diabetes Prediction Model
+- **154.** Music Recommendation System
+- **155.** Movie Recommender using Cosine Similarity
+- **156.** Voice Command GUI App
+- **157.** ChatGPT API Integration
+- **158.** Virtual Keyboard with Hand Gestures
+- **159.** Mask Detection System
+- **160.** AI-Based Interview Preparation Bot
+
+---
+
+## 🌐 **Days 161–180: Web, Full-Stack & Advanced Projects**
+- **161.** Flask To-Do App with SQLite
+- **162.** Blog Website with Flask
+- **163.** Resume Builder Web App
+- **164.** Feedback Form Web App
+- **165.** Notes App with Flask and Login
+- **166.** RESTful API with FastAPI
+- **167.** Upload & Display Image Web App
+- **168.** Expense Tracker Web App
+- **169.** URL Shortener Web App
+- **170.** Portfolio Website Generator from JSON
+- **171.** Image Gallery with Upload & Delete
+- **172.** Flask Weather App (API)
+- **173.** Real-Time Chat App with `Flask-SocketIO`
+- **174.** Flask Blog with Admin Dashboard
+- **175.** Mini eCommerce App
+- **176.** Blog with Markdown Support
+- **177.** Authentication System with Flask
+- **178.** REST API Documentation Page
+- **179.** AI Chat App with Memory
+- **180.** Final Capstone: Personal Project using all skills (choose any)
+
+---
+
+Would you like this roadmap in a downloadable format like PDF or Excel? Or maybe split weekly for easier tracking?
+
+
+
 ## **Month 3: Python for Web Development (Days 61–90)**  
 ### **Week 9: Introduction to Flask**  
 ✅ Day 61: Setting up Flask  
@@ -157,3 +305,8 @@ Here's a **180-Day Python Roadmap** that covers everything from basics to advanc
 ---
 
 This roadmap ensures **progressive learning with practical application** so that by the end of 180 days, you'll be **proficient in Python development across multiple domains**. Let me know if you need adjustments or a specific focus! 🚀
+
+
+Here’s a structured **Day 61 to Day 180 Python Daily Project Roadmap** divided by themes and increasing complexity. Each day brings a small but complete mini-project or feature to build upon.
+
+---

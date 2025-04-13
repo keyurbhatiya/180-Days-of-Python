@@ -85,6 +85,29 @@ Welcome to the **180 Days of Python** journey! This project is a structured road
 ✅ Day 59: Working with Seaborn  
 ✅ Day 60: Practice & Review
 
+
+## 🧠 **Days 61–80: Intermediate Python Projects**
+- **61.** Digital Clock GUI using `tkinter`
+- **62.** Random Password Generator (with strength meter)
+- **63.** Pomodoro Timer App
+- **64.** Flashcard App (quiz mode)
+- **65.** Typing Speed Test App
+- **66.** File Organizer (auto-sort files into folders by extension)
+- **67.** Countdown Timer CLI
+- **68.** Desktop Notifier using `plyer`
+- **69.** Weather App using OpenWeatherMap API
+- **70.** Currency Converter using `forex-python`
+- **71.** Dice Rolling GUI Game
+- **72.** GUI BMI Calculator
+- **73.** QR Code Generator using `qrcode`
+- **74.** Barcode Generator
+- **75.** Python Image Editor (crop, rotate, filters) using `Pillow`
+- **76.** Simple Expense Tracker with CSV
+- **77.** Flashlight App using camera LED (for Android via Kivy)
+- **78.** Secure Notes App with Encryption
+- **79.** Loan EMI Calculator
+- **80.** Calendar App GUI
+
 ## 📁 Project Structure
 ```
 📂 180-days-of-python
